@@ -1,3 +1,5 @@
+![Screenshot 2024-07-25 231432](https://github.com/user-attachments/assets/a4f0989f-87c1-4af7-b49f-f13b57260424)
+
 ### Introducing ArticleQuery
 
 Have you ever wished you could ask questions about a long article and someone could just give you answers from that article?
